@@ -1,4 +1,5 @@
-TEST
+This is my attempt at all the exercises here. I did will cheat or look at solutions while doing these. -Aser
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
